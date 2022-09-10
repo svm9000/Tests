@@ -1,0 +1,7 @@
+pytest
+prophet
+pmdarima
+skforecast
+numpy
+pandas
+ipykernel
