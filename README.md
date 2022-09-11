@@ -33,11 +33,11 @@ Therefore, the Output for £0-5 must be 3.
 • Compute follow inputs: £0-50, £2-, £10-, (£100- for extra marks)
 
 Current output:
-#Total odd coin count that sum to £0-50 =  225
+#Total odd coin count that sum to £0-50 = 225
 
 #Total odd coin count that sum to £2-0 =  36840
 
-#Total odd coin count that sum to £10-0 =  160667940
+#Total odd coin count that sum to £10-0 = 160667940
 ```
 
 ## Installation
@@ -47,6 +47,5 @@ The files can be  intro about the installation.
 git clone https://github.com/svm9000/Tests.git
 
 ```
-To reproduce environment, you need to run `pip install -r 
-requirements.txt`. It is recommended you do this within a virtual environment, see [virtualenv](https://virtualenv.pypa.io/en/stable/). We can also run the program within a docker container, see [docker](https://docs.docker.com/language/python/build-images/).
+Code was run on `Python version 3.10.4` using Visual Studio Code IDE, see [Visual Studio Code](https://code.visualstudio.com/), with Jupyter notebook support installed. To reproduce environment it is recommended to create your own virtual environment, see [virtualenv](https://virtualenv.pypa.io/en/stable/). Then install the required packages using `pip install -r requirements.txt`. We can also run the programs within a docker container, see [docker](https://docs.docker.com/language/python/build-images/).
 
