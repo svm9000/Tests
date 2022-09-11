@@ -11,7 +11,7 @@ This repository contains:
     * Data treatment process and tests
     * Daily Demand forecasting for next 12-months period and plots
     
-  * There is also a Python script file **odd_coin_combination.py** to help solve the **odd coin combination problem**, see below. 
+  * There is also a Python script file `odd_coin_combination.py` to help solve the **odd coin combination problem**, see below. 
       * The algorithm accepts any amount of notes or coins, and dispensing equal value of coins for change. The coins available in this machine are: **Two Pounds, One  Pound, 50 Pence, 20 Pence, 10 Pence, 5 Pence, 2 Pence and 1 Pence**. The quantity of each type of coin is unlimited. The order of coins does not matter.
       * Units tests can be found in **tests/tests_odd_coin_combination.py**
 ```
